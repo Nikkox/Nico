@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abrir puerta con llave", "Abrir puerta con llave.csproj", "{5ACEA796-C5CF-8837-AFEE-E072F1679035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abrir puerta con llave.Plugins", "Abrir puerta con llave.Plugins.csproj", "{3C78AA2E-C3AE-FC8F-5986-614F176726F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abrir puerta con llave.Editor.Plugins", "Abrir puerta con llave.Editor.Plugins.csproj", "{0EB9CD21-270F-F18D-5D8E-4D37384BC365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACEA796-C5CF-8837-AFEE-E072F1679035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACEA796-C5CF-8837-AFEE-E072F1679035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACEA796-C5CF-8837-AFEE-E072F1679035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACEA796-C5CF-8837-AFEE-E072F1679035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C78AA2E-C3AE-FC8F-5986-614F176726F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C78AA2E-C3AE-FC8F-5986-614F176726F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C78AA2E-C3AE-FC8F-5986-614F176726F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C78AA2E-C3AE-FC8F-5986-614F176726F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB9CD21-270F-F18D-5D8E-4D37384BC365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB9CD21-270F-F18D-5D8E-4D37384BC365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB9CD21-270F-F18D-5D8E-4D37384BC365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB9CD21-270F-F18D-5D8E-4D37384BC365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
